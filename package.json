@@ -1,0 +1,15 @@
+{
+  "name": "sonicflow-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd SonicFlow-main/sonicFlow-FrontEnd && npm run dev",
+    "install-frontend": "cd SonicFlow-main/sonicFlow-FrontEnd && npm install",
+    "admin": "cd admin && npm run dev",
+    "install-admin": "cd admin && npm install"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+} 
